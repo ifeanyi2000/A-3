@@ -22,6 +22,20 @@ STEP 6: I tried another map location of Seatile, USA, then searched the LONG/LAT
 ![A3 image 10](https://github.com/ifeanyi2000/A-3/assets/162834986/77ce96ac-14e8-40fb-96c3-3e2ae791d991)
 ![A3 image 9](https://github.com/ifeanyi2000/A-3/assets/162834986/d68deded-e157-4191-a78d-e56fcca79d77)
 ![A3 image 8](https://github.com/ifeanyi2000/A-3/assets/162834986/90778881-49f0-4127-bd33-9afd1afba89c)
+![A3 image 10](https://github.com/ifeanyi2000/A-3/assets/162834986/453608d1-b68e-4265-ad60-764d24edab38)
+![A3 image 11](https://github.com/ifeanyi2000/A-3/assets/162834986/4bed7575-f7d0-4c30-bf6b-174830d019de)
+
+STEP 7: I added San Francisco, USA in the Map by first searching for the Long/Lat using LATLONG.NET
+![A3 image 12](https://github.com/ifeanyi2000/A-3/assets/162834986/ee133f3e-f290-4988-b8d5-6bbe004b5a85)
+
+STEP 8: I added Chicago, USA location to the map
+![A3 image 13](https://github.com/ifeanyi2000/A-3/assets/162834986/5003dfca-7559-4f95-bd07-b5c94d2cb104
+
+STEP 9: I changed the color of Chicago location to Red
+![A3 image 14](https://github.com/ifeanyi2000/A-3/assets/162834986/c01a9504-7971-4e2b-bb52-b3866ecf597a)
+
+
+
 
 
 
